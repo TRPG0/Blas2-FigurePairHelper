@@ -8,14 +8,14 @@
     <Product>Figure Pair Helper</Product>
     <Authors>TRPG</Authors>
     <Company>TRPG</Company>
-    <Description>A mod for Blasphemous 2</Description>
+    <Description>See which figures pair together in the Altarpiece of Favours.</Description>
     <Version>1.0.0</Version>
     
     <TargetName>FigurePairHelper</TargetName>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
     <GenerateDocumentationFile>True</GenerateDocumentationFile>
     <DocumentationFile>bin\$(Configuration)\$(TargetName).xml</DocumentationFile>
-    <RepositoryUrl>https://github.com/Example</RepositoryUrl>
+    <RepositoryUrl>https://github.com/TRPG0/Blas2-FigurePairHelper</RepositoryUrl>
     <AppendTargetFrameworkToOutputPath>false</AppendTargetFrameworkToOutputPath>
   </PropertyGroup>
 
